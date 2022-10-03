@@ -1,0 +1,24 @@
+.contain_filter {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: stretch;
+  flex-direction: row;
+  background-color: darksalmon;
+  border: solid 0.05rem white;
+  background-size: contain;
+}
+.filters {
+  margin: 0.1rem;
+}
+.labels {
+  margin: 0.05rem;
+  padding: 0.1rem;
+  color: darkred;
+  font-weight: bold;
+}
+.select {
+  border-radius: 0.2rem;
+}

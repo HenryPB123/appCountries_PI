@@ -1,0 +1,18 @@
+.container_home {
+  margin: 0;
+  min-width: 100vh;
+  min-height: 100vh;
+  background-image: url("https://mapamundi.online/wp-content/uploads/2019/02/mapa-mundi-vintage-antiguo.jpg");
+  background-blend-mode: hard-light;
+  background-color: lightseagreen;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container_in {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+}

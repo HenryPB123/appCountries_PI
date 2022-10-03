@@ -1,0 +1,19 @@
+.activities {
+  background-color: darkseagreen;
+  margin: 0.5rem;
+  padding: 0.1rem;
+  width: 12rem;
+  border-radius: 0.5rem;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  flex-direction: row;
+  text-align: left;
+  font-weight: 500;
+}
+.activities_out {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
